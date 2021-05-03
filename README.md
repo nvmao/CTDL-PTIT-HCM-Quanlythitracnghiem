@@ -18,3 +18,7 @@ g/ Thi Trắc nghiệm ( trước khi thi hỏi người thi môn thi, số câu
 h/ In chi tiết các câu hỏi đã thi 1 môn học của  1 sinh viên, 
 i/ In bảng điểm thi trắc nghiệm môn học của 1 lớp (nếu có sinh viên chưa thi thì ghi “Chưa thi”.
 Lưu ý: Chương trình cho phép lưu các danh sách vào file; Kiểm tra các điều kiện làm dữ liệu bị sai. Sinh viên có thể tự thiết kế thêm danh sách để đáp ứng yêu cầu của đề tài.
+
+DEMO:
+![image](https://user-images.githubusercontent.com/39910660/116884128-93163780-ac50-11eb-8df0-67bcef83fc62.png)
+![image](https://user-images.githubusercontent.com/39910660/116884195-a923f800-ac50-11eb-8799-dcf531749488.png)
